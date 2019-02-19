@@ -30,5 +30,5 @@ It's likely to fail during this last step, but then, you may want to rather run 
 
 ```
 pip install numpy
-pip install pytorch*.whl
+pip install torch*.whl
 ```
